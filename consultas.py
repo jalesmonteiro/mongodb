@@ -1,4 +1,4 @@
-from database.connection import AtlasConnection
+from conexao import AtlasConnection
 from bson.decimal128 import Decimal128
 from datetime import datetime, timedelta
 
